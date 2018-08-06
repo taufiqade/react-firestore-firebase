@@ -1,0 +1,11 @@
+.user-detail .card-style { 
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+}
+.add-btn {margin-bottom: 10px}
+.card-style.edit { padding:20px 0px; }
+.user-detail .content-wrap { padding: 2px 16px; } 
+.user-detail img { width: 150px;}
